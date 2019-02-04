@@ -2,4 +2,4 @@ def instantiate_new_array
   @my_new_array = []
 end
 
-@my_new_array = ["red", "orange"]
+@my_two_array = ["red", "orange"]
